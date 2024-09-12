@@ -25,4 +25,5 @@ Open index.html in your web browser to play the game.
 **Author:**
 
 [Saksham Jha]
+
 [ www.linkedin.com/in/saksham-jha-141623275 ]
